@@ -59,5 +59,6 @@ pip install pandas matplotlib seaborn
 - Add support for custom column names and formats to improve flexibility and compatibility with various datasets.
 - Implement an interactive heatmap visualization using a web-based framework (e.g., D3.js, Plotly) for better user experience and real-time analysis capabilities.
 - Include additional cohort metrics and customization options for the heatmap visualization.
+- Write tests for each of the functions to ensure functionality.
 
 
