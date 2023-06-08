@@ -1,4 +1,4 @@
- # Project Overview
+# Project Overview
 
 This project provides a Python Jupyter Notebook to analyze and visualize customer cohorts in the form of a heatmap. The heatmap displays the total number of orders for each cohort week and bucket, giving insights into customer behavior and order patterns.
 
@@ -62,3 +62,4 @@ pip install pandas matplotlib seaborn
 - Write tests for each of the functions to ensure functionality.
 
 
+### Written by Preet Kaur for Invitae
