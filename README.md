@@ -62,4 +62,4 @@ pip install pandas matplotlib seaborn
 - Write tests for each of the functions to ensure functionality.
 
 
-### Written by Preet Kaur for Invitae
+### Written by Preet Kaur
